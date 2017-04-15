@@ -70,3 +70,6 @@ Questions & Answers:
   -.George Washington
   -John Adams
   -James Madison
+
+  https://www.uscis.gov/sites/default/files/USCIS/Office%20of%20Citizenship/Citizenship%20Resource%20Center%20Site/Publications/100q.pdf
+  https://www.uscis.gov/citizenship/teachers/educational-products/100-civics-questions-and-answers-mp3-audio-english-version
